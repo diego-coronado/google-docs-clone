@@ -12,9 +12,9 @@
  *
  *= require_tree .
  *= require_self
+ *= require 'quill/dist/quill.core.css'
+ *= require 'quill/dist/quill.snow.css'
  */
-
- @import "quill/dist/quill.snow.css";
 
  body {
   margin: 0;
