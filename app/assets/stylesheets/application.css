@@ -14,7 +14,7 @@
  *= require_self
  */
 
- @import "~quill/dist/quill.snow.css";
+ @import "quill/dist/quill.snow.css";
 
  body {
   margin: 0;
